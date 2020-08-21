@@ -16,7 +16,7 @@ Existem 'N' possibilidades de se aprender algo novo, este repositório contém o
 
 Curso|Produtor|Link|Obs
 ---|---|---|---
-Git e GitHub|Curso em vídeo|(http://gg.gg/lpoo3)|Curso feito em formato de live
+Git e GitHub|Curso em vídeo|(http://gg.gg/lpoph)|Curso feito em formato de live
 Python|Curso em Vídeo|(http://gg.gg/lpoof)| Curso dividido em 3 Modulos
 Análise de dados com python| LabHacker da Câmara Legislativa do Distrito Federal|(http://gg.gg/lpoon)|Curso em formato de LIVE
 
