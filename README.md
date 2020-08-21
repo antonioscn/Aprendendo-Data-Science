@@ -1,4 +1,4 @@
-# <p align="center">Aprendendo Data Science </p>
+# <p align="center">Aprendendo Data Science (em construcion) </p>
 ---
 
 <p align="center">
