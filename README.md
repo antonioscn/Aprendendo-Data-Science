@@ -16,14 +16,14 @@ Existem 'N' possibilidades de se aprender algo novo, este repositório contém o
 
 Curso|Produtor|Link|Obs
 ---|---|---|---
-Git e GitHub|Curso em vídeo|(https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)|Curso feito em formato de live
-Python|Curso em Vídeo|(https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)| Curso dividido em 3 Modulos
-Análise de dados com python| LabHacker da Câmara Legislativa do Distrito Federal| (https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH)|Curso em formato de LIVE
+Git e GitHub|Curso em vídeo|(http://gg.gg/lpoo3)|Curso feito em formato de live
+Python|Curso em Vídeo|(http://gg.gg/lpoof)| Curso dividido em 3 Modulos
+Análise de dados com python| LabHacker da Câmara Legislativa do Distrito Federal|(http://gg.gg/lpoon)|Curso em formato de LIVE
 
 ## Produtores de Conteúdo
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
  Produt. de Conteúdo|Conteúdo|Link
  ---|---|---|
- Curso em vídeo|Cursos em geral|(https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
- Programação Dinâmica|Python e Data Science| (https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
+ Curso em vídeo|Cursos em geral|(http://gg.gg/lpoox)
+ Programação Dinâmica|Python e Data Science| (http://gg.gg/lpop7)
  ---
