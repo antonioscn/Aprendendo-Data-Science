@@ -28,4 +28,5 @@ Inteligencia Artificial para Todos|Diogo Cortiz|(http://gg.gg/lsm4z)| No Youtube
  Curso em vídeo|Cursos em geral|(http://gg.gg/lpoox)
  Programação Dinâmica|Python e Data Science| (http://gg.gg/lpop7)
  Carlos Melo|Data Science|(http://gg.gg/lsm74)
+ Peixe Babel|Programação em Geral|(http://gg.gg/ltkas)
  ---
