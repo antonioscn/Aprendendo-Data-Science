@@ -12,7 +12,7 @@ Existem 'N' possibilidades de se aprender algo novo, este repositório contém o
     
 ---
 
-## Cursos
+## <p align="center">Cursos</p>
 
 Curso|Produtor|Link|Obs
 ---|---|---|---
@@ -23,8 +23,9 @@ Aprenda Estatistica com Python| Yuri T. de Barros| http://gg.gg/lysr2| Post em b
 Inteligencia Artificial para Todos|Diogo Cortiz|http://gg.gg/lsm4z| No Youtube
 
 
-## Produtores de Conteúdo
+## <p align="center"> Produtores de Conteúdo</p>
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
+
  Produt. de Conteúdo|Conteúdo|Link
  ---|---|---|
  Curso em vídeo|Cursos em geral|http://gg.gg/lpoox
