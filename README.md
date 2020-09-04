@@ -18,12 +18,11 @@ Curso|Produtor|Link|Obs
 ---|---|---|---
 Git e GitHub|Curso em vídeo|http://gg.gg/lpoph|Curso feito em formato de live
 Python|Curso em Vídeo|http://gg.gg/lpoof| Curso dividido em 3 Modulos
+Análise de dados com R| Escola Virtual.gov| http://gg.gg/m0u5t| Curso introdutório com vários aspectos da área de Data Science
 Análise de dados com python| LabHacker da Câmara Legislativa do Distrito Federal|http://gg.gg/lpoon|Curso em formato de LIVE
 Aprenda Estatistica com Python| Yuri T. de Barros| http://gg.gg/lysr2| Post em blog
 Inteligencia Artificial para Todos|Diogo Cortiz|http://gg.gg/lsm4z| No Youtube
 Tutorial de Machine Learning| Mario Filho|http://gg.gg/lzjmh|Tutorial com exemplo do Titanic
-Cursos em geral|Didática Tech|https://didatica.tech/cursos-machine-learning-diferenciados-pela-didatica-aprendizado/|Site com vários cursos introdutorios 
-
 
 ## <p align="center"> Produtores de Conteúdo</p>
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
@@ -35,4 +34,5 @@ Cursos em geral|Didática Tech|https://didatica.tech/cursos-machine-learning-dif
  Programação Dinâmica|Python e Data Science|http://gg.gg/lpop7
  Carlos Melo|Data Science|http://gg.gg/lsm74
  Peixe Babel|Programação em Geral|http://gg.gg/ltkas
+ Didática Tech| Cursos de programação em geral| http://gg.gg/m0u6n
  ---
