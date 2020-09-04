@@ -22,6 +22,7 @@ Análise de dados com python| LabHacker da Câmara Legislativa do Distrito Feder
 Aprenda Estatistica com Python| Yuri T. de Barros| http://gg.gg/lysr2| Post em blog
 Inteligencia Artificial para Todos|Diogo Cortiz|http://gg.gg/lsm4z| No Youtube
 Tutorial de Machine Learning| Mario Filho|http://gg.gg/lzjmh|Tutorial com exemplo do Titanic
+Cursos em geral|Didática Tech|https://didatica.tech/cursos-machine-learning-diferenciados-pela-didatica-aprendizado/|Site com vários cursos introdutorios 
 
 
 ## <p align="center"> Produtores de Conteúdo</p>
