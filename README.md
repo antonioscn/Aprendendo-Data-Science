@@ -30,11 +30,13 @@ Tutorial de Machine Learning| Mario Filho|http://gg.gg/lzjmh|Tutorial com exempl
  Produt. de Conteúdo|Conteúdo|Link
  ---|---|---|
  Curso em vídeo|Cursos em geral|http://gg.gg/lpoox
- Ciencia de Dados na Prática|Ciência de dados|http://gg.gg/lyss8
  Programação Dinâmica|Python e Data Science|http://gg.gg/lpop7
- Carlos Melo|Data Science|http://gg.gg/lsm74
+ Ciencia de Dados na Prática|Ciência de dados|http://gg.gg/lyss8
+  Carlos Melo|Data Science|http://gg.gg/lsm74
  Mario Filho|Data Science|http://gg.gg/m2c8e
  Paulo Vasconcellos|Data Science|http://gg.gg/m2c7u
  Peixe Babel|Programação em Geral|http://gg.gg/ltkas
  Didática Tech| Cursos de programação em geral| http://gg.gg/m0u6n
  ---
+
+---
