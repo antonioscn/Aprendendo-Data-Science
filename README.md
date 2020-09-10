@@ -36,7 +36,7 @@ Idiomas | http://gg.gg/m4520
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
 
  Produt. de Conteúdo|Conteúdo|Link
- ---|---|---|
+ :---:|:---:|:---?|
  Curso em vídeo|Cursos em geral|http://gg.gg/lpoox
  Programação Dinâmica|Python e Data Science|http://gg.gg/lpop7
  Ciencia de Dados na Prática|Ciência de dados|http://gg.gg/lyss8
