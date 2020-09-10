@@ -15,7 +15,7 @@ Existem 'N' possibilidades de se aprender algo novo, este repositório contém o
 ## <p align="center">Cursos</p>
 
 Curso|Produtor|Link|Obs
----|---|---|---
+:---:|:---:|:---:|:---:|
 Git e GitHub|Curso em vídeo|http://gg.gg/lpoph|Curso feito em formato de live
 Power BI para Data Science| Data Science Academy| http://gg.gg/m44yg | Em andamento
 Python|Curso em Vídeo| http://gg.gg/lpoof| Curso dividido em 3 Modulos
@@ -25,6 +25,12 @@ Análise de dados com python| LabHacker da Câmara Legislativa do Distrito Feder
 Aprenda Estatistica com Python| Yuri T. de Barros| http://gg.gg/lysr2| Post em blog
 Inteligencia Artificial para Todos|Diogo Cortiz|http://gg.gg/lsm4z| No Youtube
 Tutorial de Machine Learning| Mario Filho|http://gg.gg/lzjmh|Tutorial com exemplo do Titanic
+
+## Cursos Extras
+Curso|Link
+:---:|:---:|
+Idiomas | http://gg.gg/m4520
+
 
 ## <p align="center"> Produtores de Conteúdo</p>
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
