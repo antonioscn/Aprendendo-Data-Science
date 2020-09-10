@@ -17,7 +17,7 @@ Existem 'N' possibilidades de se aprender algo novo, este repositório contém o
 Curso|Produtor|Link|Obs
 ---|---|---|---
 Git e GitHub|Curso em vídeo|http://gg.gg/lpoph|Curso feito em formato de live
-Power BI para Data Science| http://gg.gg/m44yg | Em andamento
+Power BI para Data Science| Data Science Academy| http://gg.gg/m44yg | Em andamento
 Python|Curso em Vídeo|http://gg.gg/lpoof| Curso dividido em 3 Modulos
 Python, Fundamentos para Análise de dados| http://gg.gg/m44xy| Gratuito com certificado
 Análise de dados com R| Escola Virtual.gov| http://gg.gg/m0u5t| Curso introdutório com vários aspectos da área de Data Science
