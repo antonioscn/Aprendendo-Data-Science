@@ -31,7 +31,6 @@ Curso|Link
 :---:|:---:|
 Idiomas | http://gg.gg/m4520
 Criação de sites| http://gg.gg/m4oi4
----
 
 ## <p align="center"> Produtores de Conteúdo</p>
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
