@@ -23,6 +23,7 @@ Python, Fundamentos para Análise de dados|Data Science Academy| http://gg.gg/m4
 Análise de dados com R| Escola Virtual.gov| http://gg.gg/m0u5t| Curso introdutório com vários aspectos da área de Data Science
 Análise de dados com python| LabHacker da Câmara Legislativa do Distrito Federal|http://gg.gg/lpoon|Curso em formato de LIVE
 Aprenda Estatistica com Python| Yuri T. de Barros| http://gg.gg/lysr2| Post em blog
+INTELIGÊNCIA ARTIFICIAL E FERRAMENTAS AVANÇADAS DE CIÊNCIA DE DADOS | Universidade Mackenzie| http://gg.gg/m4oqx | Gratís e com certificado
 Inteligencia Artificial para Todos|Diogo Cortiz|http://gg.gg/lsm4z| No Youtube
 Tutorial de Machine Learning| Mario Filho|http://gg.gg/lzjmh|Tutorial com exemplo do Titanic
 
@@ -31,6 +32,7 @@ Curso|Link
 :---:|:---:|
 Idiomas | http://gg.gg/m4520
 Criação de sites| http://gg.gg/m4oi4
+TOMADA DE DECISÕES GUIADAS POR DADOS|http://gg.gg/m4ora
 
 ## <p align="center"> Produtores de Conteúdo</p>
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
