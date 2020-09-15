@@ -17,7 +17,7 @@ Existem 'N' possibilidades de se aprender algo novo, este repositório contém o
 - [Afinal, o que é Ciência de Dados](http://www.abgconsultoria.com.br/blog/afinal-o-que-e-data-science/) [PT-BR]
 - [PARA INICIAR EM DATA SCIENCE](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html) [PT-BR]
 - [O que é Machine Learning e como aprender sem gastar nada](https://paulovasconcellos.com.br/o-que-e-machine-learning-e-como-aprender-sem-gastar-nada-2e612f13102b) [PT-BR]
-- [Profissionais de dados: Em qual dessas classificações você se encaixaria ?](https://medium.com/@luis.anderson.sp/10-tipos-de-profissionais-de-dados-de-engenheiros-de-dados-a-- big-data-devops-e-analistas-de-94259531270f?ref=datahackers) [PT-BR]
+- [Profissionais de dados: Em qual dessas classificações você se encaixaria ?](https://medium.com/@luis.anderson.sp/10-tipos-de-profissionais-de-dados-de-engenheiros-de-dados-a--big-data-devops-e-analistas-de-94259531270f?ref=datahackers) [PT-BR]
 ---
 
 ## <p align="center">Cursos</p>
