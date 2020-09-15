@@ -43,7 +43,7 @@ Idiomas | http://gg.gg/m4520
 Criação de sites| http://gg.gg/m4oi4
 TOMADA DE DECISÕES GUIADAS POR DADOS|http://gg.gg/m4ora
 
-## <p align="center"> Produtores de Conteúdo</p>
+## Produtores de Conteúdo
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
 
  Produt. de Conteúdo|Conteúdo|Link
