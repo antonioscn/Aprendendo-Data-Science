@@ -38,13 +38,6 @@ Tutorial de Machine Learning| Mario Filho|http://gg.gg/lzjmh|Tutorial com exempl
 Inteligencia Artificial para Todos|Diogo Cortiz|http://gg.gg/lsm4z| No Youtube
 
 
-## Cursos Extras
-Curso|Link
-:---:|:---:|
-Idiomas | http://gg.gg/m4520
-Criação de sites| http://gg.gg/m4oi4
-TOMADA DE DECISÕES GUIADAS POR DADOS|http://gg.gg/m4ora
-
 ## Produtores de Conteúdo
  Aqui veremos alguns produtores de conteúdo que podem te ajudar durante a formação em Data Science; (Dicas, Insights, mini-cursos)
 
@@ -58,6 +51,13 @@ TOMADA DE DECISÕES GUIADAS POR DADOS|http://gg.gg/m4ora
  Paulo Vasconcellos|Data Science|http://gg.gg/m2c7u
  Peixe Babel|Programação em Geral|http://gg.gg/ltkas
  Didática Tech| Cursos de programação em geral| http://gg.gg/m0u6n
+ 
+ ## Cursos Extras
+Curso|Link
+:---:|:---:|
+Idiomas | http://gg.gg/m4520
+Criação de sites| http://gg.gg/m4oi4
+TOMADA DE DECISÕES GUIADAS POR DADOS|http://gg.gg/m4ora
  ---
 
 ---
