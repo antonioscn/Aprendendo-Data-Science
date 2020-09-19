@@ -48,7 +48,7 @@ Inteligencia Artificial para Todos|Diogo Cortiz|http://gg.gg/lsm4z| No Youtube
  Ciencia de Dados na Prática|Ciência de dados|http://gg.gg/lyss8
   Carlos Melo|Data Science|http://gg.gg/lsm74
  Mario Filho|Data Science|http://gg.gg/m2c8e
- Minerando dados|Data Science| https://www.youtube.com/c/MinerandoDados
+ Minerando dados|Data Science|http://gg.gg/m8ry8
  Paulo Vasconcellos|Data Science|http://gg.gg/m2c7u
  Peixe Babel|Programação em Geral|http://gg.gg/ltkas
  Didática Tech| Cursos de programação em geral| http://gg.gg/m0u6n
