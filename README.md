@@ -13,7 +13,7 @@ Existem 'N' possibilidades de se aprender algo novo. Caso deseje adicionar algo,
     
 ---
 
-## <p align="center">Sim, mas o que é Data Science?</p>
+## <p align="center">Sim, mas afinal, o que é Data Science?</p>
    
 - [Afinal, o que é Ciência de Dados](http://www.abgconsultoria.com.br/blog/afinal-o-que-e-data-science/) [PT-BR]
 - [PARA INICIAR EM DATA SCIENCE](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html) [PT-BR]
