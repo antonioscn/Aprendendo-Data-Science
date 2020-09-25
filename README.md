@@ -1,7 +1,7 @@
 ## <p align="center">Aprendendo Data Science (in construcion) </p>
 
 <p align="center">
-   Repositório criado para compartilhar conteúdos que auxiliem no aprendizado em Data Science (Cursos, Dicas, Notbooks...)
+   Repositório criado para compartilhar conteúdos que auxiliem no aprendizado de Data Science (Cursos, Dicas, Notbooks...)
 Existem 'N' possibilidades de se aprender algo novo. Caso deseje adicionar algo, fique avontade. 
    <br>
    VAMOS CRESCER JUNTOS!!
