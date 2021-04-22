@@ -2,7 +2,8 @@
 
 <p align="center">
    Repositório criado para compartilhar conteúdos que auxiliem no aprendizado de Data Science (Cursos, Dicas, Notbooks...)
-Existem 'N' possibilidades de se aprender algo novo. Caso deseje adicionar algo, fique avontade. 
+
+Caso deseje adicionar algo, fique avontade. 
    <br>
    VAMOS CRESCER JUNTOS!!
    
