@@ -34,6 +34,7 @@ Aprenda Estatistica com Python| Yuri T. de Barros| http://gg.gg/lysr2| Post em b
 INTELIGÊNCIA ARTIFICIAL E FERRAMENTAS AVANÇADAS DE CIÊNCIA DE DADOS | Universidade Mackenzie| http://gg.gg/m4oqx | Gratís e com certificado
 Tutorial de Machine Learning| Mario Filho|http://gg.gg/lzjmh|Tutorial com exemplo do Titanic
 Inteligencia Artificial para Todos|Diogo Cortiz|http://gg.gg/lsm4z| No Youtube
+Selenium (web scraping)| Eduardo Mendes| https://www.youtube.com/watch?v=PHHXksljGNA&list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B| Youtube
 
 
 ## Produtores de Conteúdo
