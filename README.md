@@ -57,7 +57,7 @@ Curso|Link
 :---:|:---:|
 Idiomas | http://gg.gg/m4520
 Criação de sites| http://gg.gg/m4oi4
-TOMADA DE DECISÕES GUIADAS POR DADOS|http://gg.gg/m4ora
+Tomada de decisões guiadas por dados|http://gg.gg/m4ora
  ---
  
   ## Outros
