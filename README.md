@@ -61,7 +61,7 @@ Tomada de decisões guiadas por dados|http://gg.gg/m4ora
  ---
  
   ## Outros
-Curso|Link
+Tipo|Link
 :---:|:---:|
 Organização | www.evernote.com
  ---
