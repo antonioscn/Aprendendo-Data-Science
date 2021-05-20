@@ -61,10 +61,10 @@ Tomada de decisões guiadas por dados|http://gg.gg/m4ora
  ---
  
   ## Outros
-Tipo|Link
+Tipo| Nome| Link
 :---:|:---:|
-Organização | http://gg.gg/unfvn
-Organização | www.evernote.com
+Organização | Evernote|  http://gg.gg/unfvn
+Organização | Notion| http://gg.gg/unfvx
  ---
 
 
