@@ -11,7 +11,7 @@
     </p>
 
 
-## <p align="center">Sim, mas afinal, o que é Data Science?</p>
+## <p align="center">Mas afinal, o que é Data Science?</p>
    
    - [Profissionais de dados](https://medium.com/@luis.anderson.sp/10-tipos-de-profissionais-de-dados-de-engenheiros-de-dados-a--big-data-devops-e-analistas-de-94259531270f?ref=datahackers) [PT-BR]
 - [Afinal, o que é Ciência de Dados](http://www.abgconsultoria.com.br/blog/afinal-o-que-e-data-science/) [PT-BR]
