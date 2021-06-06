@@ -1,4 +1,4 @@
-## <p align="center">APRENDENDO UM POQUITO DE DATA SCIENCE (in construcion) </p>
+## <p align="center">APRENDENDO UN POQUITO DE DATA SCIENCE (in construcion) </p>
 
 <p align="center">
    Repositório criado para compartilhar conteúdos que auxiliem no aprendizado de Data Science
