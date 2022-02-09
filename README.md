@@ -1,7 +1,7 @@
 ## <p align="center">APRENDENDO DATA SCIENCE</p>
 
 <p align="center">
-   Repositório criado para compartilhar conteúdos que auxiliem no aprendizado de Data Science
+   Repositório criado para compartilhar alguns conteúdos que auxiliem no aprendizado de Data Science
    <br>
    VAMOS CRESCER JUNTOS!!
    
